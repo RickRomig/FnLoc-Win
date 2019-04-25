@@ -22,8 +22,8 @@ Licensed under the GNU General Public License, version 2.0.
 The source code can be compiled with any C compiler or IDE on your system. I have compiled it using  the MinGW GCC compiler.
 
 ### Installation:
-1. xtract the FnLoC_Windows.zip, this create the FnLoC_Windows folder containing all the files. Right-clicking the zipped file and selecing 'Extract All...' from the menu will extract the files to the folder.
-2. Launch FnLoC-install.bat as administrator from inside the FnLoC_Windows folder
+1. Extract [FnLoc-Win-master.zip](https://github.com/RickRomig/FnLoc-Win/archive/master.zip), this create the FFnLoc-Win-master folder containing all the files. Right-clicking the zipped file and selecing 'Extract All...' from the menu will extract the files to the folder.
+2. Launch FnLoC-install.bat as administrator from inside the FnLoc-Win-master folder
 from within the either Windows File Explorer or from a command prompt (run as
 administrator). The batch file will create a FnLoC folder under `C:\Program Files (x86)` and copy all of the files to the FnLoC folder.
 
@@ -147,7 +147,7 @@ sed -i.bak -e 's/\r//g' sourcefile
 
 Feel free to contact me with comments and suggestions for FnLoC. Also feel free to share any code or ideas that will help me improve this program. I can be reached through my blog, Twitter, and email.
 
-* [GitHub](https://github.com/RickRomig/FnLoC)
+* [GitHub](https://github.com/RickRomig/FnLoc-Win)
 * [Rick's Tech Stuff](https://ricktech.wordpress.com)
 * [Twitter (@ludditegeek)](https://twitter.com/ludditegeek)
 * Email: <rick.romig@gmail.com> or <rb_romig@twc.com>
