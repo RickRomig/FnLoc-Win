@@ -1,0 +1,49 @@
+
+FnLoC 2.2.1
+Copyright 2018, Richard B. Romig
+Licensed under the GNU General Public License, version 2
+
+Lines of code data for lloc.c
+
+Functions:
+int main(int argc, char *argv[])
+LOC:	  54
+STATETYPE next_new_line(char ch)
+LOC:	  16
+STATETYPE next_pos_comment(char ch)
+LOC:	  10
+STATETYPE next_cpp_comment(char ch)
+LOC:	   5
+STATETYPE next_comment(char ch)
+LOC:	   5
+STATETYPE next_pos_end_comment(char ch)
+LOC:	  10
+STATETYPE next_comp_dir(char ch)
+LOC:	   5
+STATETYPE next_line_of_code(char ch)
+LOC:	  10
+STATETYPE next_open_bracket(char ch)
+LOC:	  10
+STATETYPE next_close_bracket1(char ch)
+LOC:	   5
+STATETYPE next_close_bracket2(char ch)
+LOC:	   5
+STATETYPE next_pos_eol(char ch)
+LOC:	  12
+STATETYPE next_inline_comment(char ch)
+LOC:	   5
+void printLoc(char source[], int loc)
+LOC:	   5
+void show_usage(char p_name[])
+LOC:	   5
+
+Summary:
+Number of functions:   15
+Function LOC:         162
+Non-function LOC:       5
+Total Program LOC:    167
+
+lloc.h does not contain function code.
+
+Total Program LOC:     16
+
